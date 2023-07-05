@@ -45,6 +45,17 @@ export default function GithubProfileCard({prof}) {
               <span className="desc-prof">
                 Open for opportunities: {prof.hireable}
               </span>
+              <br/>
+              <>
+                  <a
+                    className="contact-detail"
+                    href={"tel:" + contactInfo.number}
+                  >
+                    Mobile:- {contactInfo.number}
+                  </a>
+                  <br />
+                  <br />
+                </>
             </div>
             <SocialMedia />
           </div>
