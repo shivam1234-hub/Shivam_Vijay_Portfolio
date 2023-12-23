@@ -120,7 +120,7 @@ const educationInfo = {
     {
       schoolName: "Indian Institute of Technology Kharagpur",
       logo: require("./assets/images/iitkgp.png"),
-      subHeader: "Bachelors of Technology in Computer Science",
+      subHeader: "Bachelors of Technology in Electrical Engineering",
       duration: "December 2020 - April 2024",
       desc: "CGPA:-8.36/10",
       descBullets: [
