@@ -51,7 +51,7 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            {illustration.animated ? (
+            {1 ? (
               <DisplayLottie animationData={landingPerson} />
             ) : (
               <img
