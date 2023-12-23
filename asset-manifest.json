@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shivam_Vijay_Portfolio/static/css/main.7a769c60.css",
-    "main.js": "/Shivam_Vijay_Portfolio/static/js/main.b3184a7a.js",
+    "main.js": "/Shivam_Vijay_Portfolio/static/js/main.a695e04e.js",
     "static/css/141.a78981ef.chunk.css": "/Shivam_Vijay_Portfolio/static/css/141.a78981ef.chunk.css",
     "static/js/141.484bb820.chunk.js": "/Shivam_Vijay_Portfolio/static/js/141.484bb820.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/Shivam_Vijay_Portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -20,7 +20,7 @@
     "index.html": "/Shivam_Vijay_Portfolio/index.html",
     "static/media/talksCardBack.svg": "/Shivam_Vijay_Portfolio/static/media/talksCardBack.99241699e0279aeb0db7.svg",
     "main.7a769c60.css.map": "/Shivam_Vijay_Portfolio/static/css/main.7a769c60.css.map",
-    "main.b3184a7a.js.map": "/Shivam_Vijay_Portfolio/static/js/main.b3184a7a.js.map",
+    "main.a695e04e.js.map": "/Shivam_Vijay_Portfolio/static/js/main.a695e04e.js.map",
     "141.a78981ef.chunk.css.map": "/Shivam_Vijay_Portfolio/static/css/141.a78981ef.chunk.css.map",
     "141.484bb820.chunk.js.map": "/Shivam_Vijay_Portfolio/static/js/141.484bb820.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/Shivam_Vijay_Portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.7a769c60.css",
-    "static/js/main.b3184a7a.js"
+    "static/js/main.a695e04e.js"
   ]
 }
