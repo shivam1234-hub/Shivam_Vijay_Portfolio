@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shivam_Vijay_Portfolio/static/css/main.380787b5.css",
+    "main.css": "/Shivam_Vijay_Portfolio/static/css/main.7a769c60.css",
     "main.js": "/Shivam_Vijay_Portfolio/static/js/main.b3184a7a.js",
     "static/css/141.a78981ef.chunk.css": "/Shivam_Vijay_Portfolio/static/css/141.a78981ef.chunk.css",
     "static/js/141.484bb820.chunk.js": "/Shivam_Vijay_Portfolio/static/js/141.484bb820.chunk.js",
@@ -18,8 +18,8 @@
     "static/media/ges.png": "/Shivam_Vijay_Portfolio/static/media/ges.7c5371d1e6221c4fad51.png",
     "static/media/skill.svg": "/Shivam_Vijay_Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/Shivam_Vijay_Portfolio/index.html",
-    "static/media/talksCardBack.svg": "/Shivam_Vijay_Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.380787b5.css.map": "/Shivam_Vijay_Portfolio/static/css/main.380787b5.css.map",
+    "static/media/talksCardBack.svg": "/Shivam_Vijay_Portfolio/static/media/talksCardBack.99241699e0279aeb0db7.svg",
+    "main.7a769c60.css.map": "/Shivam_Vijay_Portfolio/static/css/main.7a769c60.css.map",
     "main.b3184a7a.js.map": "/Shivam_Vijay_Portfolio/static/js/main.b3184a7a.js.map",
     "141.a78981ef.chunk.css.map": "/Shivam_Vijay_Portfolio/static/css/141.a78981ef.chunk.css.map",
     "141.484bb820.chunk.js.map": "/Shivam_Vijay_Portfolio/static/js/141.484bb820.chunk.js.map",
@@ -27,7 +27,7 @@
     "769.a3adc197.chunk.js.map": "/Shivam_Vijay_Portfolio/static/js/769.a3adc197.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.380787b5.css",
+    "static/css/main.7a769c60.css",
     "static/js/main.b3184a7a.js"
   ]
 }
